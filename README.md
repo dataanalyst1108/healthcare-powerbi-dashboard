@@ -254,10 +254,7 @@ Microsoft PL-900 certified. IBM DevOps Fundamentals certified.
 
 I work across Python, SQL, Power BI, Tableau, Looker Studio, and have some experience with GCP BigQuery and Streamlit deployments.
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+(https://www.linkedin.com/in/basudev-panga)) • [GitHub](https://github.com/dataanalyst1108)
 
 ---
 
-## License
-
-MIT — use it however you want.
