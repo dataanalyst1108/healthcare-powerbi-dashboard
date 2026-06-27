@@ -4,7 +4,7 @@ A Power BI dashboard built on top of a real hospital dataset — covers patient 
 
 I built this as part of my data analytics portfolio. The idea was simple: take raw messy data, clean it properly in Python, and turn it into something a hospital manager could actually sit down and use without needing to know anything about data.
 
-![Dashboard Preview](screenshots/01_executive_summary.png)
+
 
 ---
 
